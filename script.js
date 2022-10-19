@@ -19,7 +19,7 @@ function boardSetup(x, y) {
     }
 }
 boardSetup(4, 4);
-
+ 
 const squares = document.getElementsByName("square");
 
 
